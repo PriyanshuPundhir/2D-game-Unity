@@ -1,0 +1,26 @@
+fileFormatVersion: 2
+guid: 854f5ff4da2c5da42aa6c915f74c73fb
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Vanilla Daisy
+  fontNames:
+  - Vanilla Daisy
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: b3d28ed13b295ea4683f08cc2f2b87a6, type: 3}
+  - {fileID: 12800000, guid: a21b0bb9c927c4c42bfc3fa6abc31d31, type: 3}
+  - {fileID: 12800000, guid: 1130e9c907e99df43aaec3191edcc151, type: 3}
+  - {fileID: 12800000, guid: 83c904aac9bbf7f4383f0f0d12d0edad, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
